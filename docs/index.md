@@ -4,6 +4,7 @@
 
 layout: home
 title: Home
+nav_order: 1
 ---
 
 # Python Installation for Data Science - Overview
@@ -129,7 +130,7 @@ For updating Pre-Existing Install:
 
 - **First, read a little further down in the instructions** to make sure we do not already address the error message that you ran into.
 
-- **Second, please check the "Troubleshooting" chapter on the learnig platform for a lesson that mentions your problem.** about the problem you are running into. (The Troubleshooting section is the 3rd chapter in this course - see the screenshot below)
+- **Second, please check the "Troubleshooting" chapter for a lesson that mentions your problem.** (The Troubleshooting section is the 3rd chapter in this the learning platform - see the screenshot below, or it can be found [here]({% link Troubleshooting/troubleshooting.md %}))
 
     <img src="https://assets.codingdojo.com/boomyeah2015/codingdojo/curriculum/content/chapter/1658334627__Troubleshooting-chapter.png" width=200px>
 

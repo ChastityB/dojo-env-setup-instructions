@@ -2,6 +2,7 @@
 layout: page
 title: Instructions for Mac (Intel Processors)
 parent: Instructions by Operating System
+nav_order: 1
 ---
 
 # Mac (Intel) Installation Overview

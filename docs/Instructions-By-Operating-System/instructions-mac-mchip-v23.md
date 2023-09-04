@@ -2,6 +2,7 @@
 layout: page
 title: Instructions for Mac (Apple Chip)
 parent: Instructions by Operating System
+nav_order: 2
 ---
 
 # Mac (Apple Chip) Installation Overview

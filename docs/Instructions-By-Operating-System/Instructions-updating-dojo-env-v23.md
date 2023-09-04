@@ -2,6 +2,7 @@
 layout: page
 title: Updating To a New dojo-env
 parent: Instructions by Operating System
+nav_order: 4
 ---
 
 # **Updating to a new dojo-env**

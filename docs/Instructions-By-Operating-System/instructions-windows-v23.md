@@ -2,6 +2,7 @@
 layout: page
 title: Instructions for Windows
 parent: Instructions by Operating System
+nav_order: 3
 ---
 
 # Windows Installation Instructions
