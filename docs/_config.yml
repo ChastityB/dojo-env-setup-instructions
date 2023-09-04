@@ -20,6 +20,7 @@
 
 title: dojo-env-setup-instructions
 description: >- # this means to ignore newlines until "baseurl:"
+baseurl: ""
   Instructions for installing the dojo-env posted on github pages
 url: https://chastityb.github.io/dojo-env-setup-instructions/ # the base hostname & protocol for your site, e.g. http://example.com
 aux_links:
