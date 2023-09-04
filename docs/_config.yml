@@ -26,7 +26,7 @@ aux_links:
   Template Repository: https://chastityb.github.io/dojo-env-setup-instructions/
 
 # Build settings
-remote_theme: just-the-docs
+theme: just-the-docs
 color_scheme: dark
 plugins:
   - jekyll-feed
